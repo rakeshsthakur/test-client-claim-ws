@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/com/mitchell/www/examples/claim/Claim.java=UTF-8
+encoding//src/com/mitchell/www/examples/claim/ClaimLocator.java=UTF-8
+encoding//src/com/mitchell/www/examples/claim/ClaimService.java=UTF-8
+encoding//src/com/mitchell/www/examples/claim/ClaimSoapBindingStub.java=UTF-8
+encoding//src/com/mitchell/www/examples/claim/CreateClaimResponse.java=UTF-8
+encoding//src/com/mitchell/www/examples/claim/GetClaimByClaimIdRequest.java=UTF-8
+encoding//src/com/mitchell/www/examples/claim/GetClaimByClaimIdResponse.java=UTF-8
+encoding//src/com/mitchell/www/examples/claim/GetClaimsListByLossDateRanageRequest.java=UTF-8
+encoding//src/com/mitchell/www/examples/claim/LossInfoType.java=UTF-8
+encoding//src/com/mitchell/www/examples/claim/MitchellClaimType.java=UTF-8
+encoding//src/com/mitchell/www/examples/claim/MitchellClaimUpdateType.java=UTF-8
+encoding//src/com/mitchell/www/examples/claim/UpDateClaimResponse.java=UTF-8
+encoding//src/com/mitchell/www/examples/claim/VehicleInfoType.java=UTF-8
+encoding//src/com/mitchell/www/examples/claim/VehicleUpdateInfoType.java=UTF-8
